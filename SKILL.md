@@ -1,12 +1,10 @@
 ---
 name: role-check
-description: Identify your roles in any situation, determine what each role requires,
-  and perform your function excellently — regardless of outcome or how others perform
-  theirs.
+description: Identify your roles in any situation, determine what each role requires, and perform your function excellently — regardless of outcome or how others perform theirs.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - role-check-(persona-doctrine)
 - writing
